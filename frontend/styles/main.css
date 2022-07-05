@@ -1,0 +1,45 @@
+.navbar-brand {
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.nav-item {
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.nav-item .nav-link.active {
+    font-weight: 700;
+    color: palevioletred !important;
+}
+
+.nav.link {
+    color: palevioletred !important;
+}
+
+.nav-link:hover {
+    color: palevioletred !important;
+}
+
+.isi {
+    text-align: center;
+    margin-top: 150px;
+}
+
+.footer img {
+    width: 7%;
+}
+
+.footer {
+    background-color: #F9309C;
+    text-align: right;
+}
+
+.footer-copyright {
+    background-color: #F9309C;
+    text-align: center;
+    color: azure;
+}
